@@ -1,0 +1,90 @@
+CODE,DEFINITION,FINE
+4,Vehicles parked illegally south of Houston Street,115
+4,Vehicles parked illegally south of Houston Street,115
+5,Failure to make a right turn from a bus lane.,115
+6,Parking a tractor-trailer on a residential street,515
+7,Vehicles going through a red light at an intersection,50
+8,Vehicle idling in a restricted area.,115
+9,Blocking an Intersection.,115
+10,Stopping where a sign does not allow stopping.,115
+11,Hotel Loading/Unloading: Standing where standing is not allowed.,115
+12,Snow Emergency: Standing where standing is not allowed.,95
+13,Taxi Stand: Standing where standing is not allowed.,115
+14,General No Standing: Standing where standing is not allowed.,115
+16,Truck Loading/Unloading: Standing where standing is not allowed.,95
+17,Authorized Vehicles Only: Standing where standing is not allowed.,95
+18,Bus Lane: Standing where standing is not allowed.,115
+19,Bus Stop: Standing where standing is not allowed.,115
+20,General No Parking: No parking where parking is not allowed.,65
+21,Street Cleaning: No parking where parking is not allowed.,65
+22,Hotel Loading/Unloading: No parking where parking is not allowed.,60
+23,Taxi Stand: No parking where parking is not allowed.,65
+24,Authorized Vehicles Only: No parking where parking is not allowed.,65
+25,Standing at a commuter van stop.,115
+26,Standing at a for-hire vehicle stop.,115
+27,No parking in a handicapped zone.,180
+28,Overtime standing (diplomat),95
+31,Standing of a non-commercial vehicle in a commercial metered zone.,115
+32,Parking at a broken or missing meter for longer than the maximum time permitted.,65
+33,"""Feeding Meter"" -- parking in a metered space for a consecutive period of time longer than allowed.",65
+34,Expired Meter -- parking in a metered space where the meter works and the time has ended.,65
+35,"Parking in a meter space for the purpose of displaying, selling, storing, or offering goods for sale.",65
+36,Unknown Code,65
+37,Muni Meter - Parking in excess of the allowed time,65
+38,Muni Meter - Failing to show a receipt or tag in the windshield,65
+39,Parking for longer than the maximum time permitted.,65
+40,"Stopping, Standing closer than 15 feet of a fire hydrant.",115
+42,Parking in a Muni Metered space in a commercial metered zone where the time has ended.,65
+43,Parking in a commercial metered zone in which the meter is working and indicates that the time has ended.,65
+44,Parking in a commercial metered zone for longer than the maximum time allowed.,65
+45,"Stopping, Standing in a traffic lane; or if a vehicle extends more than 8 feet from the nearest curb, blocking traffic.   ",115
+46,"""double parking"".",115
+47,"Stopping, Standing a vehicle in Midtown Manhattan other than parallel or close to the curb.",115
+48,"Stopping, Standing within a marked bicycle lane.",115
+49,"Stopping, Standing alongside or opposite any street construction or obstruction and thereby blocking traffic.",95
+50,"Stopping, Standing in a crosswalk.",115
+51,"Stopping, Standing on a sidewalk. ",115
+52,"Stopping, Standing within an intersection.  ",115
+53,"Standing in a safety zone, between a safety zone and the nearest curb.",115
+55,"Stopping, Standing within a highway tunnel or on a raised or controlled access roadway.",115
+56,"Stopping, Standing alongside a barrier or divided highway unless permitted by sign.   ",115
+57,Parking a vehicle within the area designated as The Blue Zone.,65
+58,Parking a vehicle on a marginal street or waterfront,65
+59,"Standing at an angle to the curb, except where allowed by rule or sign.",115
+60,"Standing at an angle to the curb, except where authorized by rule or sign.  ",65
+61,Parking opposite the direction of traffic.    ,65
+62,Standing a vehicle beyond markings on the curb or the pavement  of a street.,65
+63,Standing a vehicle in any park between one-half hour after sunset and one-half hour before sunrise.,95
+64,No standing except consul / diplomat plates with Dept. of State decals only.,95
+65,Overtime standing consul / diplomat vehicles 30-minute limit D decals only.,95
+66,Parking a trailer or semi-trailer which is not attached to a motor vehicle.,65
+67,Parking in front of a pedestrian ramp,165
+68,Not parking as marked on a posted sign,65
+69,"Failing too show a muni-meter receipt, commercial meter zone.",65
+70,Standing a vehicle without showing a current registration sticker.,65
+71,Standing a vehicle without showing a current inspection sticker.,65
+72,Standing a vehicle with NY Plates and showing a damaged or fake inspection certificate.,65
+73,"Standing a vehicle showing an expired, damaged, void, fake, or incorrect registration sticker.",65
+74,Standing a vehicle without properly showing its current plates on the outside of the vehicle.,65
+75,Standing a vehicle in which the License Plate number does not match the information on the registration sticker.,65
+77,"Parking a bus, unless allowed by signs. ",65
+78,Parking a Commercial Vehicle on a residential street between 9PM and 5AM.,65
+79,"For a bus without passengers, waiting at a curb or other street location.",115
+80,"Standing a vehicle without head lamps, rear lamps, reflectors or other required equipment.",60
+81,No standing except diplomat,95
+82,"Standing a Commercial Vehicle unless all seats, except the front seats, and rear seat equipment removed.",115
+83,Standing a vehicle which is not properly registered. ,65
+84,Parking a Commercial Vehicle on any city street with its platform lift in the lowered position.,65
+85,"Parking a Commercial Vehicle more than 3 hours, where parking is allowed.",65
+86,"Standing a vehicle to make pickups, deliveries or service calls for more than 3 hours,.",115
+89,Standing a vehicle in the Garment District.,115
+91,Parking in order to sell a vehicle by a person who regularly sells vehicles.,65
+91,Parking in order to sell a vehicle by a person who regularly sells vehicles.,65
+92,"Parking in order to wash, grease, or repair a vehicle by a person who regularly repairs vehicles.  ",65
+93,"Stopping, Standing on paved roadway to change a flat tire, unless permitted by posted sign.",65
+94,Vehicle Release Agreement code associated with NYPD's Violation Tow Program.,100
+96,Standing within 50 feet of the nearest rail of a railroad crossing.,95
+97,Parking in a vacant lot.,65
+98,Standing in front of a public or private driveway.,95
+99,"All other parking, standing or stopping violations.",65
+99,"All other parking, standing or stopping violations.",65
